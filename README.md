@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @adelabdelstar
+- 👀 I’m interested in devops and cloud computing 
+- 🌱 I’m currently learning linux centos,git,python,azure devops,docker,kubernates
+- 💞️ I’m looking to collaborate on a project on azure devops
